@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+ultralytics
+segment-anything
+simple-lama-inpainting
+torch
+torchvision
+opencv-python
+Pillow
+python-multipart
+numpy
